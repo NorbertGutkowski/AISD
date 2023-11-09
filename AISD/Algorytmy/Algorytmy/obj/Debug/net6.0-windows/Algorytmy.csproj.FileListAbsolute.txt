@@ -1,0 +1,16 @@
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\bin\Debug\net6.0-windows\Algorytmy.exe
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\bin\Debug\net6.0-windows\Algorytmy.deps.json
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\bin\Debug\net6.0-windows\Algorytmy.runtimeconfig.json
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\bin\Debug\net6.0-windows\Algorytmy.dll
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\bin\Debug\net6.0-windows\Algorytmy.pdb
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.Form1.resources
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.csproj.GenerateResource.cache
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.dll
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\refint\Algorytmy.dll
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.pdb
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\Algorytmy.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Pulpit\AISD\Algorytmy\Algorytmy\obj\Debug\net6.0-windows\ref\Algorytmy.dll
